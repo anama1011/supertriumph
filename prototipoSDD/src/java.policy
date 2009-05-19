@@ -1,0 +1,3 @@
+grant CodeBase "file:/F:/prototipoSDD/src" {
+   permission java.security.AllPermission;
+};
